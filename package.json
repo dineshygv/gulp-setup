@@ -1,0 +1,22 @@
+{
+  "name": "gulp-setup",
+  "version": "1.0.0",
+  "description": "Boilerplate for gulp with typescript compiler and knockout",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshygv/gulp-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshygv/gulp-setup/issues"
+  },
+  "homepage": "https://github.com/dineshygv/gulp-setup#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.13.6"
+  }
+}
